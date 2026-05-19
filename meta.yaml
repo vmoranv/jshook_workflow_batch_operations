@@ -1,4 +1,5 @@
 name: batch-operations
 description: JSHook workflow for batch-operations
 author: vmoranv
+source_repo: https://github.com/vmoranv/jshook_workflow_batch_operations
 tags: ""
